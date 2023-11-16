@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jaredgastelum
+- 👋 Hi, I’m Jared
 - 👀 I’m interested in sports, music, and coding
 - 🌱 I’m currently learning how to create websites and apps
 - 💞️ I’m looking to collaborate on fun projects
